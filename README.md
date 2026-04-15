@@ -1,17 +1,17 @@
 #🔹 Fake News Detection using NLP & Machine Learning
 
 
-📌 Project Overview
+📌 Project Overview : 
 This project aims to classify news statements as real or fake using Natural Language Processing and Machine Learning techniques.
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 Python
 Pandas, NumPy
 Scikit-learn
 TF-IDF Vectorization
 
 
-⚙️ Workflow
+⚙️ Workflow : 
 Data Collection (train & test datasets)
 Data Cleaning and Preprocessing
 Text Normalization
@@ -20,7 +20,7 @@ Model Training using Logistic Regression
 Model Evaluation
 
 
-📊 Model Performance
+📊 Model Performance : 
 Accuracy: 85%
 Evaluated using classification metrics
 
